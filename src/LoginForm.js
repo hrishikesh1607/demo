@@ -32,7 +32,7 @@ const LoginForm = () => {
         />
       </div>
       <button type="submit">Login</button>
-      <button type="submit">Cancel</button>
+      <button type="submit">Delete</button>
     </form>
   );
 };
